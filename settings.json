@@ -1,0 +1,28 @@
+{
+  "mql_tools.Metaeditor.Metaeditor5Dir": "C:\\Program Files\\Slave Exness\\MetaEditor64.exe",
+  "C_Cpp.default.forcedInclude": [
+    "c:\\Users\\iparm\\.vscode\\extensions\\l-i-v.mql-tools-2.1.0\\data\\mql5_en.mqh"
+  ],
+  "mql_tools.IntelliSenseMode": "Mode 1",
+  "C_Cpp.default.includePath": [
+    "${workspaceFolder}/**",
+    "${workspaceFolder}/Include"
+  ],
+  "C_Cpp.default.compilerPath": "",
+  "C_Cpp.default.intelliSenseMode": "gcc-x64",
+  "C_Cpp.errorSquiggles": "disabled",
+  "C_Cpp.autocompleteAddParentheses": true,
+  "files.exclude": {
+    "**/*.ex4": true,
+    "**/*.ex5": true,
+    "**/*_@!!@.mq4": true,
+    "**/*_@!!@.mq5": true,
+    "**/*_@!!@.mqh": true
+  },
+  "files.associations": {
+    "*.mqh": "cpp",
+    "*.mq4": "cpp",
+    "*.mq5": "cpp"
+  },
+  "mql_tools.IntelliSenseErrorSquiggles": true
+}
